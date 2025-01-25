@@ -50,9 +50,14 @@ The model achieved an F1 score of 0.7123 on the validation set, and 0.628571428 
 
 This project was conducted as part of my Deep Learning subject. While machine learning could potentially provide better performance, deep learning was the required approach for addressing this challenge. The developed model and credit scoring function aim to help financial institutions mitigate risk and make more informed lending decisions in African financial markets.
 
+
 ## Future Work
 
 - Use machine learning models and feature engineering techniques to further improve performance.
 - Incorporate external data sources, such as credit bureau data, to enhance the model's predictive power.
 - Develop a more sophisticated credit scoring function with finer risk categories and scores.
 - Balance the target.
+
+## Certificate 
+
+![Screenshot 2025-01-26 013103](https://github.com/user-attachments/assets/72d7609f-3111-4992-b9f9-d0adf9af2496)
