@@ -4,6 +4,8 @@
 
 This project aimed to develop a Deep learning model to predict loan defaults in African financial markets. The goal is to build a model that accurately assesses the likelihood of loan defaults for both existing and new customers.
 
+
+
 ## Data
 
 The project utilizes three datasets:
@@ -57,6 +59,9 @@ This project was conducted as part of my Deep Learning subject. While machine le
 - Incorporate external data sources, such as credit bureau data, to enhance the model's predictive power.
 - Develop a more sophisticated credit scoring function with finer risk categories and scores.
 - Balance the target.
+
+## Zindi Competition link:
+https://zindi.africa/competitions/african-credit-scoring-challenge 
 
 ## Certificate 
 
